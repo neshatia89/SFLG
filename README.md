@@ -1,2 +1,2 @@
 # SFLG
-pace-filling line graph
+Space-Filling Line Graph
