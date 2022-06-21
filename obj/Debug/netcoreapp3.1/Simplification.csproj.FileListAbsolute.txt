@@ -1,0 +1,13 @@
+C:\Users\HyperIT\source\repos\Simplification\bin\Debug\netcoreapp3.1\Simplification.exe
+C:\Users\HyperIT\source\repos\Simplification\bin\Debug\netcoreapp3.1\Simplification.deps.json
+C:\Users\HyperIT\source\repos\Simplification\bin\Debug\netcoreapp3.1\Simplification.runtimeconfig.json
+C:\Users\HyperIT\source\repos\Simplification\bin\Debug\netcoreapp3.1\Simplification.runtimeconfig.dev.json
+C:\Users\HyperIT\source\repos\Simplification\bin\Debug\netcoreapp3.1\Simplification.dll
+C:\Users\HyperIT\source\repos\Simplification\bin\Debug\netcoreapp3.1\Simplification.pdb
+C:\Users\HyperIT\source\repos\Simplification\obj\Debug\netcoreapp3.1\Simplification.csprojAssemblyReference.cache
+C:\Users\HyperIT\source\repos\Simplification\obj\Debug\netcoreapp3.1\Simplification.csproj.CoreCompileInputs.cache
+C:\Users\HyperIT\source\repos\Simplification\obj\Debug\netcoreapp3.1\Simplification.AssemblyInfoInputs.cache
+C:\Users\HyperIT\source\repos\Simplification\obj\Debug\netcoreapp3.1\Simplification.AssemblyInfo.cs
+C:\Users\HyperIT\source\repos\Simplification\obj\Debug\netcoreapp3.1\Simplification.dll
+C:\Users\HyperIT\source\repos\Simplification\obj\Debug\netcoreapp3.1\Simplification.pdb
+C:\Users\HyperIT\source\repos\Simplification\obj\Debug\netcoreapp3.1\Simplification.genruntimeconfig.cache
